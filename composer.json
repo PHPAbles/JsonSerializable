@@ -1,9 +1,9 @@
 {
     "name": "potter/json-serializable",
-    "description": "PHP JsonSerializable Implementation",
+    "description": "PHP JsonSerializable Interface",
     "type": "library",
     "require": {
-        "php": "^8.3"
+        "php": ">=8.3"
     },
     "license": "MIT",
     "autoload": {
@@ -17,5 +17,6 @@
             "email": "j@ypotter.ca"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
