@@ -1,2 +1,2 @@
 # JsonSerializable
-PHP JsonSerializable Implementation
+PHP JsonSerializable Interface
