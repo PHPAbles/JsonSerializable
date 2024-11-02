@@ -6,7 +6,7 @@ namespace Potter\Json\Serializable;
 
 use JsonSerializable;
 
-interface JsonSerializableInterface extends JsonSerializeable
+interface JsonSerializableInterface extends JsonSerializable
 {
     public function jsonSerialize(): mixed;
 }
