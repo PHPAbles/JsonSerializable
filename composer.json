@@ -8,7 +8,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "PHPAbles\\Json\\Serializable\\": "src/PHPAbles/Json/Serializable/"
+            "PHPAbles\\Json\\": "src/PHPAbles/Json/"
         }
     },
     "authors": [

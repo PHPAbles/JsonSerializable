@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace PHPAbles\Json\Serializable;
+namespace PHPAbles\Json;
 
 use JsonSerializable;
 
