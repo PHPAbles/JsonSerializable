@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Potter\Json\Serializable;
+namespace PHPAbles\Json\Serializable;
 
 use JsonSerializable;
 

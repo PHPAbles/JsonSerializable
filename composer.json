@@ -1,5 +1,5 @@
 {
-    "name": "potter/json-serializable",
+    "name": "php-ables/json-serializable",
     "description": "PHP JsonSerializable Interface",
     "type": "library",
     "require": {
@@ -8,7 +8,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Potter\\Json\\Serializable\\": "src/Potter/Json/Serializable/"
+            "PHPAbles\\Json\\Serializable\\": "src/PHPAbles/Json/Serializable/"
         }
     },
     "authors": [
